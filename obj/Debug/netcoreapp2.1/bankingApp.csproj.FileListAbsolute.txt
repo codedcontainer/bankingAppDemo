@@ -1,0 +1,11 @@
+/Users/jasonutt/Documents/bankingApp/bin/Debug/netcoreapp2.1/bankingApp.deps.json
+/Users/jasonutt/Documents/bankingApp/bin/Debug/netcoreapp2.1/bankingApp.runtimeconfig.json
+/Users/jasonutt/Documents/bankingApp/bin/Debug/netcoreapp2.1/bankingApp.runtimeconfig.dev.json
+/Users/jasonutt/Documents/bankingApp/bin/Debug/netcoreapp2.1/bankingApp.dll
+/Users/jasonutt/Documents/bankingApp/bin/Debug/netcoreapp2.1/bankingApp.pdb
+/Users/jasonutt/Documents/bankingApp/obj/Debug/netcoreapp2.1/bankingApp.csprojAssemblyReference.cache
+/Users/jasonutt/Documents/bankingApp/obj/Debug/netcoreapp2.1/bankingApp.csproj.CoreCompileInputs.cache
+/Users/jasonutt/Documents/bankingApp/obj/Debug/netcoreapp2.1/bankingApp.AssemblyInfoInputs.cache
+/Users/jasonutt/Documents/bankingApp/obj/Debug/netcoreapp2.1/bankingApp.AssemblyInfo.cs
+/Users/jasonutt/Documents/bankingApp/obj/Debug/netcoreapp2.1/bankingApp.dll
+/Users/jasonutt/Documents/bankingApp/obj/Debug/netcoreapp2.1/bankingApp.pdb
