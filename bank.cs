@@ -6,6 +6,7 @@ namespace banking
     {
         double maxWithdrawal = 500.00; 
         double interest = .001;
+        double transferFee = .01; 
         private double accountBalance {get;set;}
         public double getBalance(){
             return this.accountBalance; 
@@ -26,6 +27,7 @@ namespace banking
         }
         public void accountTransfer(double amount, ref accountee accountHolder, string accountType){
             this.accountBalance -= amount;
+            this.accountBalance -= this.accountBalance * this.transferFee; 
             if (accountType == "savings"){
                 accountHolder.savings.accountBalance += amount; 
             }
