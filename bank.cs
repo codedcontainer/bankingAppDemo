@@ -23,7 +23,7 @@ namespace banking
             this.accountBalance += amount;
         }
         public void setInterest(int multiplyer){
-            this.accountBalance = this.accountBalance + (this.accountBalance * ( this.interest * multiplyer) );
+            this.accountBalance += this.accountBalance * ( this.interest * multiplyer);
         }
         public void accountTransfer(double amount, ref accountee accountHolder, string accountType){
             this.accountBalance -= amount;
